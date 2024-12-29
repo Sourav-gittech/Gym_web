@@ -8,3 +8,5 @@ Mobile Friendly: Optimized design for both desktop and mobile devices.
 Technologies Used
 Frontend: HTML5, CSS, Bootstrap
 Deployment: Hosted on github
+
+Navigate to https://sourav-gittech.github.io/Gym_web/ in your browser.
